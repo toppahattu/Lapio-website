@@ -1,17 +1,18 @@
-* {
-    color: brown;
+body {
+    margin: 0 auto;
+    line-height: 1.5;
+    padding: 4em 1em;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #555;
 }
 
-h1 {
-    color: blue;
+h1, h2, h3 {
+    color: #333;
 }
 
-li {
-    color: violet;
-}
-
-i {
-    color: red;
+img {
+    float: right;
 }
 
 div p {
