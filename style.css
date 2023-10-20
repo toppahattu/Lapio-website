@@ -1,3 +1,15 @@
-p {
-    background-color: red;
+* {
+    color: brown;
+}
+
+h1 {
+    color: blue;
+}
+
+li {
+    color: violet;
+}
+
+i {
+    color: red;
 }
